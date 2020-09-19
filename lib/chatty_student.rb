@@ -9,6 +9,6 @@ class ChattyStudent < Student
     super 
     puts "Pick me! Pick me! Pick me! Pick me! Pick me! Pick me! Pick me! Pick me! Pick me! Pick me!"
   end 
-end 
+
 
 end 
